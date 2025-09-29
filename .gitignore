@@ -1,0 +1,38 @@
+# Dependencies
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.log
+
+# Env / secrets
+.env
+.env.*
+!.env.example
+
+# Build / output
+dist/
+build/
+coverage/
+
+# Tool caches
+.cache/
+.svelte-kit/
+.next/
+.vite/
+vite-cache/
+parcel-cache/
+.eslintcache
+*.tsbuildinfo
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Archives
+*.tgz

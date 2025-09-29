@@ -1,0 +1,23 @@
+{
+  "name": "pipeline",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  
+  "scripts": { "dev": "node --watch index.js" },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dimitar871/pipeline.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dimitar871/pipeline/issues"
+  },
+  "homepage": "https://github.com/Dimitar871/pipeline#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
